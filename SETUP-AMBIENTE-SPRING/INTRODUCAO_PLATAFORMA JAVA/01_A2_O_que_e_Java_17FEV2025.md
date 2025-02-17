@@ -1,4 +1,4 @@
-## O QUE É JAVA
+# O QUE É JAVA
 
 Conhecer o que de fato é o java e porque tão requisitada
 
@@ -17,7 +17,7 @@ Ela tem sua estrutura e tudo é escrito em classes, um esqueleto para constituir
 para começar a codar em objetos
 
 Conhecer os pilares...
-# PILARES PARA CODAR EM LINGUAGENS ORIENTADAS A OBJETOS (POO)
+## PILARES PARA CODAR EM LINGUAGENS ORIENTADAS A OBJETOS (POO)
     - CLASSE E OBJETO
     - ENCAPSULAMENTO
     - ABSTRAÇÃO
@@ -42,7 +42,7 @@ tem coleta de lixo automatica, não precisamos nos preoculpar com a mémoria
 
 Algoritimos que vem comprometimento das rotinas e podem detectar comprometimento nas execulções
 
-# SEGURANÇA
+## SEGURANÇA
     Java tem a possibilidade de fazer verificações de segurança, pré analise para ver se algo foi violado após a compilação e implica com criptografia e evitar aduteração na internet
     Segurança da linguagem, não é necessario ter tanta enfâse, essa é a proposta de utilizar a linguagem
 
@@ -52,5 +52,5 @@ Algoritimos que vem comprometimento das rotinas e podem detectar comprometimento
     Converter para uma estrutura
 
 
-# MULTI THREAD
+### MULTI THREAD
     subprocesso leve em execução, execulta varios threads e possui alta performace de execução.
