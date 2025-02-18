@@ -19,3 +19,6 @@ ele deixa baixar todos repositorios publicos, abre o explorer para criar uma nov
 Assim os arquivos já estão disponíveis na maquina fisica.
 
 Realizar commit diretamente pelo VSCode.
+
+## RESUMO PROJETO JAVA
+    Pasta de bibliotecas e SRC com arquivo fonte
